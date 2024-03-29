@@ -1,6 +1,11 @@
 * Getting started
 
-  * [Quick start](quickstart.md)
+<details open>
+<summary>* [Quick start](guide.md)</summary>
+<br>
+* [Quick start3](quickstart3.md)
+</details>
+  * [Quick start](guide.md)
     * [Quick start3](quickstart3.md)
 	* [Quick start4](quickstart4.md)
   * [Writing more pages](more-pages.md)
