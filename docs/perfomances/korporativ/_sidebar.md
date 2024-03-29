@@ -1,9 +1,9 @@
 * Монтаж
-  * [Декорации](dekor.md)
+  * [Декорации](*/dekor.md)
   * [Реквизит](more-pages.md)
   * Костюмы
-    * [Бухгалтер](suits/buhgalter.md)
-	* [Вадик](suits/vadik.md)
+    * [Бухгалтер](*/suits/buhgalter.md)
+	* [Вадик](*/suits/vadik.md)
 
 * Демонтаж
   * [Configuration](configuration.md)
