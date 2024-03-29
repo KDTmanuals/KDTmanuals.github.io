@@ -28,7 +28,9 @@ docs/zh-cn/guide.md   => http://domain.com/zh-cn/guide
 Для того, чтобы иметь боковую панель, вы можете создать свой собственный `_sidebar.md` (см. [Боковая панель этой документации](https://github.com/QingWei-Li/docsify/blob/master/docs/ru-ru/_sidebar.md) для примера):
 
 Во-первых, вам нужно установить `loadSidebar` в **true**. Подробности доступны в [пункте конфигурации](ru-ru/configuration.md#loadsidebar).
-
+<img src="https://cs13.pikabu.ru/post_img/2024/03/29/6/1711699583182112577.webp"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ```html
 <!-- index.html -->
 
