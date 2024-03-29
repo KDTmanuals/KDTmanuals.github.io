@@ -1,9 +1,10 @@
 * Getting started
 
 <details open>
-<summary>* [Quick start](guide.md)</summary>
+<summary> -[Quick start](guide.md)</summary>
+-[Quick start5](quickstart5.md)
 <br>
-* [Quick start3](quickstart3.md)
+ -[Quick start3](quickstart3.md)
 </details>
   * [Quick start](guide.md)
     * [Quick start3](quickstart3.md)
