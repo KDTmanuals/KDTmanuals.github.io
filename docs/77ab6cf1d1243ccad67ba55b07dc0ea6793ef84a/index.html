@@ -12,7 +12,12 @@
   window.$docsify = {
 	loadSidebar: true,
 	subMaxLevel: 2,
-	search: 'auto'
+	search: 'auto',
+	search: [
+      '/',            // => /README.md
+      '/perfomances/',       // => /guide.md
+      '/perfomances/korporativ', // => /get-started.md
+    ],
   }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
