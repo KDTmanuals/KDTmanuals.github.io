@@ -3,7 +3,7 @@
   * [Реквизит](more-pages.md)
   * Костюмы
     * [Бухгалтер](perfomances/korporativ/suits/buhgalter.md)
-	* [Вадик](perfomances/korporativ/suits/vadik.md)
+	* [Вадик](suits/vadik.md)
 
 * Демонтаж
   * [Configuration](configuration.md)
