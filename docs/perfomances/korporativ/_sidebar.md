@@ -1,11 +1,11 @@
-* Корпоратив
-  * [Декорации](guide.md)
+* Монтаж
+  * [Декорации](dekor.md)
   * [Реквизит](more-pages.md)
-  * [Костюмы](custom-navbar.md)
-  * [Костюмы1](test/guide1.md)
-  * [Ссылка на Корпоратив] (perfomances/korporativ)
+  * Костюмы
+    * [Бухгалтер](suits/buhgalter.md)
+	* [Вадик](suits/vadik.md)
 
-* Configuration
+* Демонтаж
   * [Configuration](configuration.md)
   * [Themes](themes.md)
   * [Using plugins](plugins.md)
