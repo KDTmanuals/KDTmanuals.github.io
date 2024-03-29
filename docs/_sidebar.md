@@ -3,7 +3,7 @@
   * [Реквизит](more-pages.md)
   * [Костюмы](custom-navbar.md)
   * [Костюмы1](test/guide1.md)
-  * [Ссылка на Корпоратив] (perfomances/korporativ)
+  * [Ссылка на Корпоратив](perfomances/korporativ)
 
 * Configuration
   * [Configuration](configuration.md)
