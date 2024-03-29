@@ -1,11 +1,7 @@
-* Getting started
-
-  * [Quick start](quickstart.md)
-    * [Quick start3](guide.md)
-	* [Quick start4](quickstart4.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+* Корпоратив
+  * [Декорации](guide.md)
+  * [Реквизит](more-pages.md)
+  * [Костюмы](custom-navbar.md)
 
 * Configuration
   * [Configuration](configuration.md)
