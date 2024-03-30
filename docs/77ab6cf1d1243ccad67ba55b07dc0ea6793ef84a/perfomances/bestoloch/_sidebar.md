@@ -4,14 +4,14 @@
 
 * [Общий план](perfomances/bestoloch/)
 
-* _____
+* __
 
 * Хранение
   * [Декорации](perfomances/bestoloch/hranenie/dekoracii.md)
   * [Реквизит](perfomances/bestoloch/hranenie/rekvizit.md)
   * [Костюмы](perfomances/bestoloch/hraneniе/kostumi.md)
 
-* _
+* ___
 
 * Монтаж
   * Декорации
@@ -36,6 +36,6 @@
 	* [Любовница](perfomances/bestoloch/montaj/kostumi/lubovnica.md)
 	* [Служанка](perfomances/bestoloch/montaj/kostumi/slujanka.md)
 
-* _
+* ____
 
 * Демонтаж
