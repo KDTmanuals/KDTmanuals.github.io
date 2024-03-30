@@ -1,5 +1,7 @@
 * [Все спектакли](/)
 
+*[Общий план](perfomances/bestoloch/)
+
 * Хранение
   * [Декорации](perfomances/bestoloch/hranenie/dekoracii.md)
   * [Реквизит](perfomances/bestoloch/hranenie/rekvizit.md)
