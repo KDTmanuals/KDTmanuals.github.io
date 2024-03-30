@@ -15,9 +15,13 @@
 
 	search: {
       maxAge: 86400000, // Expiration time, the default one day
-      paths: 'auto', // or 'auto'
+      paths:  [
+      '/',            // => /README.md
+      '/perfomances/',       // => /guide.md
+      '/perfomances/korporativ/', // => /get-started.md
+    ], // or 'auto'
       placeholder: 'Type to search1',
-	  depth: 1,
+	  depth: 6,
 	  }
   }
 </script>
