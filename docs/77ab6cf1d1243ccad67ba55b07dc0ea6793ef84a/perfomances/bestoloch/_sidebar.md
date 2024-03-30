@@ -1,10 +1,10 @@
 * [Все спектакли](/)
 
-* _
+* ___
 
 * [Общий план](perfomances/bestoloch/)
 
-* __
+* ___
 
 * Хранение
   * [Декорации](perfomances/bestoloch/hranenie/dekoracii.md)
@@ -36,6 +36,6 @@
 	* [Любовница](perfomances/bestoloch/montaj/kostumi/lubovnica.md)
 	* [Служанка](perfomances/bestoloch/montaj/kostumi/slujanka.md)
 
-* ____
+* ___
 
 * Демонтаж
