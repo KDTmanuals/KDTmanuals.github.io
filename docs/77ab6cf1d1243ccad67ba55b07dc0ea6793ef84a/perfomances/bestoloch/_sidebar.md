@@ -1,3 +1,5 @@
+* [Все спектакли](/)
+
 * Хранение
   * [Декорации](perfomances/bestoloch/hranenie/dekoracii.md)
   * [Реквизит](perfomances/bestoloch/hranenie/rekvizit.md)
@@ -6,7 +8,7 @@
 * Монтаж
   * Декорации
     * [1. Двери](perfomances/bestoloch/montaj/dekoracii/dveri.md)
-	* [2. Люстры](perfomances/bestoloch/montaj/dekoracii/lustri.md)
+	* [2. Светильники](perfomances/bestoloch/montaj/dekoracii/svetilniki.md)
 	* [3. Диван](perfomances/bestoloch/montaj/dekoracii/divan.md)
 	* [4. Арки](perfomances/bestoloch/montaj/dekoracii/arki.md)
 	* [5. Бар](perfomances/bestoloch/montaj/dekoracii/bar.md)
@@ -23,5 +25,3 @@
 	* [Служанка](perfomances/bestoloch/montaj/kostumi/slujanka.md)
 
 * Демонтаж
-  
-* [Все спектакли](/)
