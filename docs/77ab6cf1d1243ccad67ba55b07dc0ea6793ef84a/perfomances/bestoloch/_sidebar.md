@@ -11,7 +11,11 @@
 	* [2. Светильники](perfomances/bestoloch/montaj/dekoracii/svetilniki.md)
 	* [3. Диван](perfomances/bestoloch/montaj/dekoracii/divan.md)
 	* [4. Арки](perfomances/bestoloch/montaj/dekoracii/arki.md)
-	* [5. Бар](perfomances/bestoloch/montaj/dekoracii/bar.md)
+	* [5. Вдоль задника](perfomances/bestoloch/montaj/dekoracii/zadnik.md)
+	* [6. Бар](perfomances/bestoloch/montaj/dekoracii/bar.md)
+	* [7. Комод](perfomances/bestoloch/montaj/dekoracii/bar.md)
+	* [8. Столик](perfomances/bestoloch/montaj/dekoracii/stolik.md)
+	* [9. Стулья](perfomances/bestoloch/montaj/dekoracii/stuliya.md)
   * Реквизит
     * [Бар](perfomances/bestoloch/montaj/rekvizit/bar.md)
 	* [Комод](perfomances/bestoloch/montaj/rekvizit/komod.md)
