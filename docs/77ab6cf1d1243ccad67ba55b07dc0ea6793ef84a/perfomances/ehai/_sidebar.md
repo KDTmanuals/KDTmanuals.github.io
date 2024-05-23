@@ -20,8 +20,8 @@
 	* [3. Задник](perfomances/ehai/montaj/dekoracii/zadnik.md)
 	* [4. Деревня](perfomances/ehai/montaj/dekoracii/derevnya.md)
 	* [5. Рельсы](perfomances/ehai/montaj/dekoracii/relsi.md)
-	* [6. Деревья](perfomances/ehai/montaj/dekoracii/derevya.md)
-	* [7. Сугробы](perfomances/ehai/montaj/dekoracii/sugrob.md)
+	* [6. Сугробы](perfomances/ehai/montaj/dekoracii/sugrobi.md)
+	* [7. Деревья](perfomances/ehai/montaj/dekoracii/derevya.md)
 	* [8. Снег](perfomances/ehai/montaj/dekoracii/sneg.md)
 	* [9. Стулья](perfomances/ehai/montaj/dekoracii/stuliya.md)
   * Реквизит
