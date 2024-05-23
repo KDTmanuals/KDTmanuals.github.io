@@ -23,7 +23,7 @@
 	* [6. Сугробы](perfomances/ehai/montaj/dekoracii/sugrobi.md)
 	* [7. Деревья](perfomances/ehai/montaj/dekoracii/derevya.md)
 	* [8. Снег](perfomances/ehai/montaj/dekoracii/sneg.md)
-	* [9. Стулья](perfomances/ehai/montaj/dekoracii/stuliya.md)
+	* [9. Поезд](perfomances/ehai/montaj/dekoracii/poezd.md)
   * Реквизит
     * [Бар](perfomances/ehai/montaj/rekvizit/bar.md)
 	* [Комод](perfomances/ehai/montaj/rekvizit/komod.md)
