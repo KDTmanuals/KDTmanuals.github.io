@@ -24,6 +24,7 @@
 	* [7. Деревья](perfomances/ehai/montaj/dekoracii/derevya.md)
 	* [8. Снег](perfomances/ehai/montaj/dekoracii/sneg.md)
 	* [9. Поезд](perfomances/ehai/montaj/dekoracii/poezd.md)
+  * [Кулисы](perfomances/ehai/montaj/kulisi.md)
   * Реквизит
     * [Подиум](perfomances/ehai/montaj/rekvizit/podium.md)
 	* [Поезд](perfomances/ehai/montaj/rekvizit/poezd.md)
