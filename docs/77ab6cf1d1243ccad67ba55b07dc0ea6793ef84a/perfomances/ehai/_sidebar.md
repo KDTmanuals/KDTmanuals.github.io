@@ -25,16 +25,13 @@
 	* [8. Снег](perfomances/ehai/montaj/dekoracii/sneg.md)
 	* [9. Поезд](perfomances/ehai/montaj/dekoracii/poezd.md)
   * Реквизит
-    * [Бар](perfomances/ehai/montaj/rekvizit/bar.md)
-	* [Комод](perfomances/ehai/montaj/rekvizit/komod.md)
-	* [Портфель](perfomances/ehai/montaj/rekvizit/portfel.md)
-	* [Столик](perfomances/ehai/montaj/rekvizit/stolik.md)
+    * [Подиум](perfomances/ehai/montaj/rekvizit/podium.md)
+	* [Поезд](perfomances/ehai/montaj/rekvizit/poezd.md)
+	* [За кулисой](perfomances/ehai/montaj/rekvizit/kulisa.md)
   * Костюмы
-    * [Муж](perfomances/ehai/montaj/kostumi/muj.md)
-	* [Жена](perfomances/ehai/montaj/kostumi/muj.md)
-	* [Любовник](perfomances/ehai/montaj/kostumi/lubovnik.md)
-	* [Любовница](perfomances/ehai/montaj/kostumi/lubovnica.md)
-	* [Служанка](perfomances/ehai/montaj/kostumi/slujanka.md)
+    * [Машинист](perfomances/ehai/montaj/kostumi/mashinist.md)
+	* [Мужик](perfomances/ehai/montaj/kostumi/mujik.md)
+	* [Бабка](perfomances/ehai/montaj/kostumi/babka.md)
 
 * ___
 
