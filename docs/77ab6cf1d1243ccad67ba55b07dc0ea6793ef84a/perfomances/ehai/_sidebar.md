@@ -9,7 +9,7 @@
 * Хранение
   * [Декорации](perfomances/ehai/hranenie/dekoracii.md)
   * [Реквизит](perfomances/ehai/hranenie/rekvizit.md)
-  * [Костюмы](perfomances/ehai/hraneniе/kostumi.md)
+  * [Костюмы](perfomances/ehai/hranenie/kostumi.md)
 
 * ___
 
