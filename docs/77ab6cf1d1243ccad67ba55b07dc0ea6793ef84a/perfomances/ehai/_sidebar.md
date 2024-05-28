@@ -36,4 +36,4 @@
 
 * ___
 
-* Демонтаж
+* [Демонтаж](perfomances/ehai/demontaj/demontaj.md)
