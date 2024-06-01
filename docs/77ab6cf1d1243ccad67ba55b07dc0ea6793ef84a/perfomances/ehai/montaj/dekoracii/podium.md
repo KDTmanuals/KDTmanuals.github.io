@@ -25,6 +25,9 @@ TODO [рулетка с 210см]
 Кубы под подиумом располагаются максимально ближе к краям частей подиума и под их центрами.\
 ![test](https://drive.usercontent.google.com/download?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW)\
 ![Example Image](https://drive.google.com/uc?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW)\
+![test1](https://drive.google.com/thumbnail?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW&sz=s500)
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW" alt="" />\
+<iframe src="https://drive.google.com/file/d/1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW/preview" width="640" height="480"allow="autoplay"></iframe>\
 TODO [расположение кубов под подиумом]\
 Металлические каркасы ставятся ровно под задними углами подиума.\
 TODO [выставленные каркасы]\
