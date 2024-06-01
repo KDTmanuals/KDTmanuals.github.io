@@ -8,7 +8,8 @@ TODO [выставленные кубы]\
 ![Javatpoint](https://drive.usercontent.google.com/download?id=1jOMPZPZsxZYLQGpwGzdmFU1dG7n1IjOx&export=view&authuser=0)  
 ## 2.2 Каркас
 Сзади выставляются металлические каркасы\
-TODO [выставленные каркасы]
+TODO [выставленные каркасы]\
+![kark](https://drive.google.com/uc?export=view&id=1jOMPZPZsxZYLQGpwGzdmFU1dG7n1IjOx)
 ## 2.3 Каркас подиума
 На кубы и металлические каркасы выставляется каркас подиума состоящий из трех частей.\
 TODO [выставленный каркас не прикрученный]\
