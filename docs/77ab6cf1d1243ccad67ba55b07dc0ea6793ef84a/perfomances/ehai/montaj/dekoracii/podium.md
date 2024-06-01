@@ -4,30 +4,22 @@ TODO [собранный подиум без декораций]
 Впереди выставляются 6 кубов 44см примерно в 2м от края сцены.\
 В середине 5 кубов 45см.\
 Сзади 1 параллелепипед посередине.\
-TODO [выставленные кубы]\
-![Javatpoint](https://drive.usercontent.google.com/download?id=1jOMPZPZsxZYLQGpwGzdmFU1dG7n1IjOx&export=view&authuser=0)  
+TODO [выставленные кубы]
 ## 2.2 Каркас
 Сзади выставляются металлические каркасы\
-TODO [выставленные каркасы]\
-![kark](https://drive.google.com/uc?export=view&id=1jOMPZPZsxZYLQGpwGzdmFU1dG7n1IjOx)
+TODO [выставленные каркасы]
 ## 2.3 Каркас подиума
 На кубы и металлические каркасы выставляется каркас подиума состоящий из трех частей.\
 TODO [выставленный каркас не прикрученный]\
-![123](https://i.ytimg.com/an_webp/25N0R1KnXVs/mqdefault_6s.webp?du=3000&sqp=CIKe3LIG&rs=AOn4CLCpN_NlY826O-8kTQKQwWgVJGftgA)
 Каркас скручивается вручную барашковыми гайками в 12 местах. Комплекты болт-2 шайбы-гайка хранятся с боковыми частями подиума.\
 TODO [скрученный каркас с пометками мест скручивания]
 ## 2.4 Расположение
 Собранный подиум располагается по центру сцены и в 210см от края сцены.\
 TODO [подиум по центру с пометкой]\
-![fff](https://drive.usercontent.google.com/download?id=1jOMPZPZsxZYLQGpwGzdmFU1dG7n1IjOx)
 TODO [рулетка с 210см]
 ## 2.5 Укрепление подиума
 Кубы под подиумом располагаются максимально ближе к краям частей подиума и под их центрами.\
-![test](https://drive.usercontent.google.com/download?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW)\
-![Example Image](https://drive.google.com/uc?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW)\
-![test1](https://drive.google.com/thumbnail?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW&sz=s500)
-<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW" alt="" />\
-<iframe src="https://drive.google.com/file/d/1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW/preview" width="640" height="480"allow="autoplay"></iframe>\
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1NvLsB0XsP2-kS_pqBcEGzr9OaD1qhpHH" alt="" />\
 TODO [расположение кубов под подиумом]\
 Металлические каркасы ставятся ровно под задними углами подиума.\
 TODO [выставленные каркасы]\
