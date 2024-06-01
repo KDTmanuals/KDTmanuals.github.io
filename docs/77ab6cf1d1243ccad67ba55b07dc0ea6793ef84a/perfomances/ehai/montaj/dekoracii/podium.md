@@ -24,7 +24,7 @@ TODO [рулетка с 210см]
 ## 2.5 Укрепление подиума
 Кубы под подиумом располагаются максимально ближе к краям частей подиума и под их центрами.\
 ![test](https://drive.usercontent.google.com/download?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW)\
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://drive.usercontent.google.com/download?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW">
+![Example Image](https://drive.google.com/uc?id=1rCL6yh2dEs_wEI4aI2WoavFJqBi2JnkW)\
 TODO [расположение кубов под подиумом]\
 Металлические каркасы ставятся ровно под задними углами подиума.\
 TODO [выставленные каркасы]\
