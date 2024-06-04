@@ -23,9 +23,7 @@ TODO [собранный подиум без декораций]
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1V4oo4r3WIpV5EdR0Z5c_xgn0I8gEzBxT" alt="" />\
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1nIR_nxve5Lqpgg5e9sx71iZAFQYoQM8N" alt="" />\
 Металлические каркасы ставятся ровно под задними углами подиума.\
-<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1bK4PrqyFdmNxY2f4z3lYlr_E7ERrecP3" alt="" />
-<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1QVkBv7-d57pwW-IJObIElMESkhm6Mo7_" alt="" />
-<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=16Sf12zbAlnGu02eUtjPNEYZqT7Px9fql" alt="" />\
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1BFXz9LZNvL-fI4f7g8Kg8lYIw8B9a6R0" alt="" />\
 Для исключения качания между металлическими каркасами\кубами и подиумум допустимо подкладывать небольшие брусы.\
 На момент написания инструкции такая необходимость есть в точках, отмеченных на фото.\
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1SrGbl-lOT0z65ix5lmkUGQSJJ0HqyYw-" alt="" />\
