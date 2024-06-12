@@ -31,16 +31,16 @@ TODO [собранный подиум без декораций]
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1NBM7OXPNbhETxdSXr8d_yxeeQHrnKySX" alt="" />
 ## 2.6 Пол
 Сначала пол складывается из фанеры. Каждая фанера отмечена буквами от А-Б-В-Г-Д-E. Направление букв от зрителя.\
-TODO [выставленная фанера с пометками букв]\
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1h2tVgcBXzGOetDAiKw0Gzs6Wz21C2JxX" alt="" />\
 Наверх накладывается фанера с черной тканью. Каждая такая фанера имеет отметки Аван- и Ареьрсцены, а так же лево-центр-право. Отметки располагаются к центру подиума. На правильно выставленном полу должен сформироваться рисунок овала штриховой линией.\
-TODO [выставленынй пол с пометками авн-арьер и овалом]\
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1UxZUkQq3SEVgEN4ZYeOLPUiInRtrBqqP" alt="" />\
 По углам и в центрах пол прикручивается 72мм саморезами.\
-TODO [места креплений с пометками]
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1BVBvZQ4jIdWKUG0IZVbbumTp9UOlqIcP" alt="" />
 ## 2.7 Ступени
 Со стороны задника в середине подиума формируются ступени из двух средних кубов и маленького подиума.\
-TODO [выставленные ступени]\
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1mSs_sXWIgi6w_MR9SDfsqjYr2KZbaax3" alt="" />\
 Кубы и подиум укрепляются уголками. Также кубы между собой скрепляются пластиной. Крепление произодвится 35мм саморезами.\
-TODO [крепление с пометками]
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1Jlab_k-uyF8bx8Mv5vsj7wgwuZA_rM8v" alt="" />
 ## 2.8 Юбка
 Спереди и по бокам подиума крепится тканевая юбка на липучки. Низ юбки подкладывается, образуя ровную "стену".\
-TODO [закрепленная юбка]
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1QGBT42PIqRZheUPifIiT_AhEUZbeTUru" alt="" />
