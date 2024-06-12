@@ -1,5 +1,5 @@
 # 2. Подиум
-<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1ibQPWWVmTXgZYCkNi_Td-XUBIQpm0ZVq" alt="" />
+<img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1ibQPWWVmTXgZYCkNi_Td-XUBIQpm0ZVq" alt="" />\
 ## 2.1 Кубы
 Впереди выставляются 6 кубов 44см примерно в 2м от края сцены.\
 В середине 5 кубов 45см.\
