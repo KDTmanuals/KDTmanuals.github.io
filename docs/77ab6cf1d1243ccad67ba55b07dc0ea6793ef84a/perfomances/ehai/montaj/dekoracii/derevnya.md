@@ -5,3 +5,4 @@
 ## 4.2 Подключение
 Подключение производится в черный удлинитель. Вилку удлинителя подключить в ту же розетку, в которую подключется звездное небо.\
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1VCWUUdf0Y8UsKpOGWcz8vxFTZP7_EVqc" alt="" />
+https://drive.google.com/file/d/1VCWUUdf0Y8UsKpOGWcz8vxFTZP7_EVqc/view?usp=drive_link
