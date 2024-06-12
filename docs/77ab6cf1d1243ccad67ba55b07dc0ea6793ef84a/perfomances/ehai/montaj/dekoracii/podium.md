@@ -1,5 +1,4 @@
 # 2. Подиум
-TODO [собранный подиум без декораций]
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1ibQPWWVmTXgZYCkNi_Td-XUBIQpm0ZVq" alt="" />
 ## 2.1 Кубы
 Впереди выставляются 6 кубов 44см примерно в 2м от края сцены.\
@@ -42,5 +41,5 @@ TODO [собранный подиум без декораций]
 Кубы и подиум укрепляются уголками. Также кубы между собой скрепляются пластиной. Крепление произодвится 35мм саморезами.\
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1Jlab_k-uyF8bx8Mv5vsj7wgwuZA_rM8v" alt="" />
 ## 2.8 Юбка
-Спереди и по бокам подиума крепится тканевая юбка на липучки. Низ юбки подкладывается, образуя ровную "стену".\
+Спереди и по бокам подиума крепится тканевая юбка на липучки. Низ юбки подворачивается, образуя ровную "стену".\
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1QGBT42PIqRZheUPifIiT_AhEUZbeTUru" alt="" />
