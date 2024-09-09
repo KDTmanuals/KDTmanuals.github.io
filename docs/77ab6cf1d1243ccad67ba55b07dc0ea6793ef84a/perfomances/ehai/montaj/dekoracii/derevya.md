@@ -7,7 +7,7 @@
 Крепление к подиуму производится на 19мм саморезы.\
 Расположение деревье на следующих фото:\
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1JxGb6BHiTTU919eVX4OLdbt6Meavc0EL" alt="" />\
-<img crossorigin="anonymous" src="https://drive.google.com/uc?export=view&id=1JxGb6BHiTTU919eVX4OLdbt6Meavc0EL" alt="" />\
+<img crossorigin="anonymous" width="100" height="100" src="https://drive.google.com/uc?export=view&id=1JxGb6BHiTTU919eVX4OLdbt6Meavc0EL" alt="" />\
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1W4Y8nl7y9hu9lz3sM5rhTwGiEcuJxHEg" alt="" />\
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1iC0QzFpHHuJkfb2x0_etbbY159kDbog0" alt="" />\
 <img crossorigin="anonymous" src="https://drive.lienuc.com/uc?id=1n4buQlyC8xIh_4Y-b7tHTAhxgTp6Xclk" alt="" />
